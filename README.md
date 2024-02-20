@@ -1,8 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#Course Platform(LMS system) - Practis GraphQL - NextJS/HYGRAPH 
+
+
+
 
 ## Getting Started
 
 First, run the development server:
+
+Don't forget to add HYGRAPH token to .env
 
 ```bash
 npm run dev
