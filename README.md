@@ -1,4 +1,4 @@
-#Course Platform(LMS system) - Practis GraphQL - NextJS/HYGRAPH 
+# Course Platform(LMS system) - Practis GraphQL - NextJS/HYGRAPH 
 
 
 
@@ -6,7 +6,6 @@
 ## Getting Started
 
 First, run the development server:
-
 Don't forget to add HYGRAPH token to .env
 
 ```bash
